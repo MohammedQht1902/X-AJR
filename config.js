@@ -1,10 +1,10 @@
 
 
 module.exports = {
-  TOKEN: "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
+  TOKEN: "",
   language: "ar",
   ownerID: ["968563794974478366"], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#024d99",

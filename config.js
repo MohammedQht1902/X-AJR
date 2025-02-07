@@ -2,15 +2,15 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  language: "ar",
+  ownerID: ["968563794974478366"], 
   mongodbUri : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
-  embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  embedColor: "#024d99",
+  activityName: "X Server", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/BYRqBThe76",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
